@@ -1,5 +1,10 @@
 
-<h2> Hey there! I'm Manvi.</h2>
+<h2> Hey there! I'm Manvi. 👋 </h2>
+
+🤝🏻 &nbsp;Connect with Me 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Manvi-tech)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manvi-bansal-8649821a1/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bansalmanvi1409@gmail.com)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -23,11 +28,5 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/manvi-bansal-8649821a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Manvi%20Bansal-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:bansalmanvi1409@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bansalmanvi1409@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 ⭐️ From [Manvi-tech](https://github.com/Manvi-tech)
