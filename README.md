@@ -26,6 +26,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/manvi-bansal-8649821a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Manvi%20Bansal-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:bansalmanvi1409@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bansalmanvi1409@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Manvi-tech](https://github.com/Manvi-tech)
