@@ -13,7 +13,7 @@
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://camo.githubusercontent.com/e895ffdc52a6e974062dd4775b322236b0c44567bf9b3bc069eba885d0c0f518/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3130302f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -27,7 +27,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text]
+  ![Sublime Text](https://camo.githubusercontent.com/992f7e8639cdafa3dcd7b6c097536859575dfec7871803c07aeae076c7a2be63/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3130302f3030303030302f7375626c696d652d746578742e706e67)
 - 🖥 &nbsp;
   
 <br/>
