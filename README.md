@@ -5,6 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manvi-bansal-8649821a1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bansalmanvi1409@gmail.com)
 
+***********************************
+
 ### 👨🏻‍💻 &nbsp;About Me 
 
 - 🎓 &nbsp; Studying Information Technology at GGSIPU, Delhi.
@@ -13,6 +15,8 @@
 - 💼 &nbsp; Looking for internships in Full Stack Web Development.
 - ✍️ &nbsp; Pursuing teaching as hobbies.  
   
+***********************************  
+ 
 ### 📌 &nbsp; Skills: 
  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -26,9 +30,9 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-    
-   
 <br/>
+
+***********************************
 
 <a href="https://github.com/Manvi-tech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manvi-tech&theme=buefy&show_icons=true" />
@@ -36,6 +40,7 @@
 </a>
 
 <br/>
+
 
 
 ⭐️ From [Manvi-tech](https://github.com/Manvi-tech)
