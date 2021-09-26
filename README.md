@@ -5,14 +5,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manvi-bansal-8649821a1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bansalmanvi1409@gmail.com)
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### 👨🏻‍💻 &nbsp;About Me 
 
 - 🎓 &nbsp; Studying Information Technology at GGSIPU, Delhi.
 - 🌱 &nbsp; Learning more about back-end technologies, APIs.
 - 💼 &nbsp; Looking for internships in Full Stack Web Development.
 - ✍️ &nbsp; Pursuing teaching as hobbies.  
   
- <h3>📌 &nbsp; Skills: </h3>
+### 📌 &nbsp; Skills: 
  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
