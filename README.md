@@ -1,7 +1,7 @@
 
 <h2> Hey there! I'm Manvi. 👋 </h2>
 
-🤝🏻 &nbsp;Connect with Me 
+🤝🏻 &nbsp;
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Manvi-tech)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manvi-bansal-8649821a1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bansalmanvi1409@gmail.com)
