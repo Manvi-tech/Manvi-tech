@@ -8,10 +8,10 @@
 - 💼 &nbsp; Looking for internships in Full Stack Web Development.
 - ✍️ &nbsp; Pursuing teaching as hobbies.  
   
- 📌 Languages and Frameworks:
-    <a href="https://camo.githubusercontent.com/73c9fd973f85e8a4b47f9cf765138d86d2c244e227677124699f637d2a158b42/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3461393065322f632d70726f6772616d6d696e672e706e67">
-  </a>
- 📌 Tools:
+ <h3>📌 &nbsp; Skills: </h3>
+    
+    
+
       
   
 <br/>
