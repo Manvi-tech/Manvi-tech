@@ -4,14 +4,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Information Technology at GGSIPU, Delhi.
-- 🤔 &nbsp; Exploring new tools and technologies.
-- 💼 &nbsp; Looking for internships in Full Stack Web Development.
 - 🌱 &nbsp; Learning more about back-end technologies, APIs.
-- ✍️ &nbsp; Pursuing teaching as hobbies/side hustles.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 
+- 💼 &nbsp; Looking for internships in Full Stack Web Development.
+- ✍️ &nbsp; Pursuing teaching as hobbies.  
   
 <br/>
 
