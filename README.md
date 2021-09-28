@@ -11,7 +11,7 @@
 
 - 🎓 &nbsp; Studying Information Technology at GGSIPU, Delhi.
 - 🌱 &nbsp; Learning more about back-end technologies, APIs.
-- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+- 💬 &nbsp; You can Ask me about Full Stack Development related stuff.
 - 💼 &nbsp; Looking for internships in Full Stack Web Development.
 - ✍️ &nbsp; Pursuing teaching as hobbies.  
   
@@ -43,4 +43,4 @@
 
 ***********************************
 
-⭐️ From [Manvi-tech](https://github.com/Manvi-tech)
+⭐️ From [Manvi-tech](https://github.com/Manvi-tech) : Thanks for visting my profile:)
