@@ -43,4 +43,4 @@
 
 ***********************************
 
-⭐️ From [Manvi-tech](https://github.com/Manvi-tech) : Thanks for visting my profile:)
+⭐️ From [Manvi-tech](https://github.com/Manvi-tech) : Thankyou for visting my profile:)
