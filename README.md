@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🎓 &nbsp; Studying Information Technology at GGSIPU, Delhi.
+- 🎓 &nbsp; Studied Information Technology at GGSIPU, Delhi.
 - 🌱 &nbsp; Learning more about back-end technologies, APIs.
 - 💬 &nbsp; You can Ask me about Full Stack Development related stuff.
 - 💼 &nbsp; Looking for internships in Full Stack Web Development.
