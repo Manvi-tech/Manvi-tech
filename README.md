@@ -11,7 +11,7 @@
 - 🎓 &nbsp; Studied Information Technology at GGSIPU, Delhi.
 - 🌱 &nbsp; Learning more about back-end technologies, APIs.
 - 💬 &nbsp; You can Ask me about Full Stack Development related stuff.
-- 💼 &nbsp; Looking for internships in Full Stack Web Development.
+- 💼 &nbsp; Looking for internships and Full time roles in Software Development, Full Stack Web Development.
 - ✍️ &nbsp; Pursuing teaching as hobbies.  
   
   
